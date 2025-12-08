@@ -1,0 +1,9 @@
+# Ignore everything outside this folder
+# (usually the default if you are in the right folder)
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+AppData/
+Desktop.ini
+*.lnk
