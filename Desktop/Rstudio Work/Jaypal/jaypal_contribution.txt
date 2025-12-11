@@ -1,0 +1,1 @@
+"I have written the Research Question and Hypothesis. I have also completed the R code for Pearson Correlation Test and its Plot." 
